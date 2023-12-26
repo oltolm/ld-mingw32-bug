@@ -1,0 +1,3 @@
+EXPORTS
+    myfunc@0 == myfunc
+    myfunc64@0 == myfunc64

@@ -1,0 +1,8 @@
+build/
+build-clang/
+build-gcc/
+/compile_commands.json
+/.cache/
+/.vscode/
+CMakeUserPresets.json
+*.exe

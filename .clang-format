@@ -1,0 +1,14 @@
+---
+# We'll use defaults from the LLVM style, but with 4 columns indentation.
+BasedOnStyle: LLVM
+IndentWidth: 4
+BreakBeforeBraces: Custom
+BraceWrapping:
+  AfterFunction: true
+PointerAlignment: Left
+AlignAfterOpenBracket: DontAlign
+# SpacesInLineCommentPrefix:
+#   Minimum: 0
+#   Maximum: -1
+SortIncludes: false
+...
